@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX toad.tcx_objects_ndx ON toad.tcx_objects(config_id,project_id,object_type,object_owner,object_name);

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX toad.tcx_team_projects_ndx ON toad.tcx_team_projects(team_project);

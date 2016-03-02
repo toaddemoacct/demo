@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX toad.tcx_config_desc_ndx ON toad.tcx_config(config_description);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dell_com_team_coding FOR toad.tcx_config;
